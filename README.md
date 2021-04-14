@@ -1,3 +1,6 @@
-<h2> Olá Meu Nome é Lucas Sampaio </h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+## Oiii! Eu sou o Lucas Sampaio
+ <div>
+  <a href="https://github.com/LucasSampaioOliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=8&theme=onedark"/>
+<div>
