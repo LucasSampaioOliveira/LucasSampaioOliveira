@@ -4,7 +4,6 @@
 - :cityscape: I live in Serra-ES
 - :boy: I'm 22 years old
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
  
 <div style="display: inline_block"><br>
@@ -14,7 +13,8 @@
   <img align="center" alt="Rafa-Java" height="42" width="42" <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 </div>
 
- 
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
   
   <a href="https://www.linkedin.com/in/lucas-sampaio-0aa72320b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
