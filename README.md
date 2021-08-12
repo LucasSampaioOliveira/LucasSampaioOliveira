@@ -1,4 +1,8 @@
-## Oiii! Eu sou o Lucas Sampaio
+### Hi, I'm Lucas Sampaio, in love with FrontEnd
+- :man_student: I'm currently studying to be a good Front End in the future
+- :books: I'm currently learning JS
+- :cityscape: I live in Serra-ES
+- :boy: I'm 22 years old
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
