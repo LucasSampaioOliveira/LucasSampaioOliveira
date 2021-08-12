@@ -6,11 +6,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<div>
-  <a href="https://github.com/LucasSampaioOliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSampaioOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSampaioOliveira&layout=compact&langs_count=8&theme=dark"/>
-<div>
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSampaioOliveira&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSampaioOliveira&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
