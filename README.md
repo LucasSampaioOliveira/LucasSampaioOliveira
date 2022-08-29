@@ -17,6 +17,7 @@
   <img align="center" alt="Lucas-Sass" height="42" width="42" <img src="https://img.icons8.com/color/344/bootstrap.png"/>
   <img align="center" alt="Lucas-Sass" height="42" width="42" <img src="https://img.icons8.com/color/344/figma--v1.png"/>
   <img align="center" alt="Lucas-Java" height="42" width="42" <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img align="center" alt="Lucas-Java" height="42" width="42" <img src="https://img.icons8.com/color/344/mysql-logo.png"/>
 </div>
  
  <br>
