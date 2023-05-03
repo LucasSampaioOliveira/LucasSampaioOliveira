@@ -4,7 +4,7 @@
 - :man_student: I'm currently studying to be a good Front End in the future
 - :books: I'm currently learning React.js
 - :cityscape: I live in Serra-ES
-- :boy: I'm 24 years old
+- :boy: I'm 23 years old
 
 
  
